@@ -4,7 +4,7 @@
 ## Project Overview
 This repository contains the source code for our Personal Budget Web Application, designed to help users manage their daily expenses, categorize expenses, track budgets over different periods, and perform financial calculations.
 
-</br></br>
+</br>
 
 ## Completion Status
 </br>
@@ -13,7 +13,6 @@ This repository contains the source code for our Personal Budget Web Application
 - Initial project setup and repository creation on GitHub.
 - Basic ERD (Entity-Relationship Diagram) and domain route planning.
 - User account management system (register, login, update, delete).
-- Basic frontend layout.
 ### Pending
 - Expense management functionality (create, edit, delete expenses).
 - Expense categorization and filtering.
