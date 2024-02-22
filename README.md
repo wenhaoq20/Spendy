@@ -12,7 +12,6 @@ This repository contains the source code for our Personal Budget Web Application
 ### Completed
 - Initial project setup and repository creation on GitHub.
 - Basic ERD (Entity-Relationship Diagram) and domain route planning.
-- User account management system (register, login, update, delete).
 ### Pending
 - Expense management functionality (create, edit, delete expenses).
 - Expense categorization and filtering.
@@ -21,6 +20,7 @@ This repository contains the source code for our Personal Budget Web Application
 - Attach photos for expenses and additional expense details.
 - Finalizing the frontend UI/UX design.
 - Comprehensive testing and bug fixes.
+- User account management system (register, login, update, delete).
 
 ## Team Members
 ### Eddy
