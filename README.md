@@ -7,7 +7,6 @@ This repository contains the source code for our Personal Budget Web Application
 </br>
 
 ## Completion Status
-</br>
 
 ### Completed
 - Initial project setup and repository creation on GitHub.
