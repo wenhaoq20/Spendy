@@ -1,10 +1,13 @@
 # Spendy - A Personal Budget Web Application
-
+</br></br>
 
 ## Project Overview
 This repository contains the source code for our Personal Budget Web Application, designed to help users manage their daily expenses, categorize expenses, track budgets over different periods, and perform financial calculations.
 
+</br></br>
+
 ## Completion Status
+</br>
 
 ### Completed
 - Initial project setup and repository creation on GitHub.
@@ -26,15 +29,15 @@ Contributions: Worked on setting up the project repository and initial README do
 Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
-Contributions: Developed the initial frontend layout and design.
+Contributions: Developed the initial frontend layout and design.</br>
 Next Steps: Will work on enhancing the UI/UX design for expense tracking.
 
 ### Sean
-Contributions: Outlined the ERD and planned the database schema.
+Contributions: Outlined the ERD and planned the database schema.</br>
 Next Steps: Will implement the expense management and categorization features.
 
 ### Wenhao
-Contributions: Set up the basic server and API endpoints.
+Contributions: Set up the basic server and API endpoints.</br>
 Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
 How to Contribute
 Please refer to our CONTRIBUTING.md for guidelines on how to contribute to this project. Make sure to pull the latest changes from the main branch before starting your work and push your branches with meaningful commit messages.
