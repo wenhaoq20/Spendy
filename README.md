@@ -24,20 +24,20 @@ This repository contains the source code for our Personal Budget Web Application
 
 ## Team Members
 ### Eddy
-Contributions: Worked on setting up the project repository and initial README documentation. </br>
-Next Steps: Will focus on developing the user account management backend.
+- Contributions: Worked on setting up the project repository and initial README documentation. </br>
+- Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
-Contributions: Developed the initial frontend layout and design.</br>
-Next Steps: Will work on enhancing the UI/UX design for expense tracking.
+- Contributions: Developed the initial frontend layout and design.</br>
+- Next Steps: Will work on enhancing the UI/UX design for expense tracking.
 
 ### Sean
-Contributions: Outlined the ERD and planned the database schema.</br>
-Next Steps: Will implement the expense management and categorization features.
+- Contributions: Outlined the ERD and planned the database schema.</br>
+- Next Steps: Will implement the expense management and categorization features.
 
 ### Wenhao
-Contributions: Set up the basic server and API endpoints.</br>
-Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
+- Contributions: Set up the basic server and API endpoints.</br>
+- Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
 
 
 </br>
