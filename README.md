@@ -1,4 +1,6 @@
 # Spendy - A Personal Budget Web Application
+
+
 ## Project Overview
 This repository contains the source code for our Personal Budget Web Application, designed to help users manage their daily expenses, categorize expenses, track budgets over different periods, and perform financial calculations.
 
