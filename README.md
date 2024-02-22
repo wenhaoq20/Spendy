@@ -15,18 +15,18 @@ This repository contains the source code for our Personal Budget Web Application
 ## Completion Status
 
 ### Completed
-Initial project setup and repository creation on GitHub.
-Basic ERD (Entity-Relationship Diagram) and domain route planning.
-User account management system (register, login, update, delete).
-Basic frontend layout.
+- Initial project setup and repository creation on GitHub.
+- Basic ERD (Entity-Relationship Diagram) and domain route planning.
+- User account management system (register, login, update, delete).
+- Basic frontend layout.
 ### Pending
-Expense management functionality (create, edit, delete expenses).
-Expense categorization and filtering.
-Budget setting and tracking for daily, monthly, and yearly periods.
-Financial calculations for budgeting.
-Attach photos for expenses and additional expense details.
-Finalizing the frontend UI/UX design.
-Comprehensive testing and bug fixes.
+- Expense management functionality (create, edit, delete expenses).
+- Expense categorization and filtering.
+- Budget setting and tracking for daily, monthly, and yearly periods.
+- Financial calculations for budgeting.
+- Attach photos for expenses and additional expense details.
+- Finalizing the frontend UI/UX design.
+- Comprehensive testing and bug fixes.
 
 ## Team Members
 ### Eddy
