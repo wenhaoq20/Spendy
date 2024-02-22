@@ -22,7 +22,7 @@ This repository contains the source code for our Personal Budget Web Application
 
 ## Team Members
 ### Eddy
-Contributions: Worked on setting up the project repository and initial README documentation.
+Contributions: Worked on setting up the project repository and initial README documentation. </br>
 Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
