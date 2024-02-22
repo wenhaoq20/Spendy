@@ -41,6 +41,7 @@ Next Steps: Will focus on integrating financial calculations and budget tracking
 
 
 </br>
+
 ## How to Contribute
 Please refer to our CONTRIBUTING.md for guidelines on how to contribute to this project. Make sure to pull the latest changes from the main branch before starting your work and push your branches with meaningful commit messages.
 
