@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Container, Card, Form, Button } from 'react-bootstrap';
 import { useNavigate } from "react-router";
+import "./Login.css";
 
 const Login = () => {
     const [email, setEmail] = useState("");
@@ -19,16 +20,16 @@ const Login = () => {
     }
 
     return (
-        <Container>
+        <Container className="d-flex align-items-center justify-content-center min-vh-100">
             <Card>
                 <Card.Body>
                     <Card.Title>Spendy</Card.Title>
                     <Form onSubmit={handleSubmit}>
                         <Form.Group className="mb-3">
-                            <Form.Control type="email" placeholder="Email" onChange={(e) => setEmail(e.target.value)} />
+                            <Form.Control type="email" placeholder="Email" onChange={(e) => setEmail(e.target.value)} required />
                         </Form.Group>
                         <Form.Group className="mb-3">
-                            <Form.Control type="password" placeholder="Password" onChange={(e) => setPassword(e.target.value)} />
+                            <Form.Control type="password" placeholder="Password" onChange={(e) => setPassword(e.target.value)} required  />
                         </Form.Group>
                         <Button variant="primary" type="submit">
                             Login
