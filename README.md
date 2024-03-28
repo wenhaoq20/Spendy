@@ -40,6 +40,14 @@ This repository contains the source code for our Personal Budget Web Application
 - Current: Adding more functionality to the frontend pages based on the backend implementation.
 - Next Steps: Will work on enhancing the UI/UX design for expense tracking.
 
+
+## How to Run This Project
+1. Clone this repository from [https://github.com/wenhaoq20/Spendy/](https://github.com/wenhaoq20/Spendy/)
+2. cd to the Spendy/ directory folder
+3. Run npm install in the folder using the terminal
+4. Run npm run dev to start the application
+5. Visit the local link provided in the terminal to confirm that the website is running
+
 </br>
 
 ## How to Contribute
