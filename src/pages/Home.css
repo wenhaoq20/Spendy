@@ -1,0 +1,45 @@
+.custom-navbar .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.custom-navbar .nav-link {
+    font-size: 1.1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border-radius: 0.75rem;
+    border: none; 
+}
+
+.card-body {
+    transition: transform 0.2s;
+}
+
+.card-body:hover {
+    transform: scale(1.02);
+    cursor: pointer;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+.container {
+    max-width: 90%;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem; 
+    --bs-gutter-y: 2rem; 
+}

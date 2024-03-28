@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Container, Card, Form, Button, Navbar, Nav, Alert } from 'react-bootstrap';
 import { useNavigate } from "react-router";
 import { ArrowLeftCircle } from 'react-bootstrap-icons';
-import "./Signup.css"; // Ensure this CSS file is updated with the styles mentioned below
+import "./Signup.css"; 
 
 const Signup = () => {
     const [email, setEmail] = useState("");
