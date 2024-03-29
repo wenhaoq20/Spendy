@@ -28,7 +28,7 @@ This repository contains the source code for our Personal Budget Web Application
 - Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
-- Current: Set up the basic server and API endpoints.
+- Completed Recently: Set up the basic server and API endpoints.
 - Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
 
 ### Sean
