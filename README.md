@@ -25,7 +25,8 @@ This repository contains the source code for our Personal Budget Web Application
 
 ## Team Members
 ### Eddy
-- Current: Fuzz Testing with attempting hack of the website.
+- New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
+- Current: Adding the validating the budget, numbers.
 - Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
