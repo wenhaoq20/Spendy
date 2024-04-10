@@ -23,7 +23,9 @@ This repository contains the source code for our Personal Budget Web Application
 - Comprehensive testing and bug fixes.
 - User account management system (register, login, update, delete).
 
-## Team Members
+## Team Members' Progress
+
+## 4/10/2024 Update
 ### Eddy
 - New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
 - Current: Adding the validating the budget, numbers.
@@ -42,6 +44,48 @@ This repository contains the source code for our Personal Budget Web Application
 - Current: Adding more functionality to the frontend pages based on the backend implementation.
 - Next Steps: Will work on enhancing the UI/UX design for expense tracking.
 
+<br>
+
+## 3/27/2024 Update
+### Eddy
+- New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
+- Current: Adding the validating the budget, numbers.
+- Next Steps: Will focus on developing the user account management backend.
+
+### Johanan
+- New completions: Set up the basic server and API endpoints.
+- Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
+
+### Sean
+- Current: Outlined the ERD and planned the database schema.
+- Next Steps: Will implement the expense management and categorization features.
+
+### Wenhao
+- New completions: Designed and developed the frontend layout and design.
+- Current: Adding more functionality to the frontend pages based on the backend implementation.
+- Next Steps: Will work on enhancing the UI/UX design for expense tracking.
+
+<br>
+
+## 2/21/2024 Update
+
+### Eddy
+- Contributions: Worked on setting up the project repository and initial README documentation.
+- Next Steps: Will focus on developing the user account management backend.
+
+### Johanan
+- Contributions: Set up the basic server and API endpoints.
+- Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
+
+### Sean
+- Contributions: Outlined the ERD and planned the database schema.
+- Next Steps: Will implement the expense management and categorization features.
+
+### Wenhao
+- Contributions: Developed the initial frontend layout and design.
+- Next Steps: Will work on enhancing the UI/UX design for expense tracking.
+
+<br>
 
 ## How to Run This Project
 1. Clone this repository from [https://github.com/wenhaoq20/Spendy/](https://github.com/wenhaoq20/Spendy/)
