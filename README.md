@@ -15,7 +15,7 @@ This repository contains the source code for our Personal Budget Web Application
 - Initial project setup and repository creation on GitHub.
 - Basic ERD (Entity-Relationship Diagram) and domain route planning.
 - Complete domain design for API and Pages
-- Completed inital frontend layout and page components.
+- Completed initial frontend layout and page components.
 - Log-in, Log-out page
 ### Pending
 - Expense management functionality (create, edit, delete expenses).
@@ -34,7 +34,7 @@ This repository contains the source code for our Personal Budget Web Application
 ## 4/10/2024 Update
 ### Eddy
 - New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
-- Current: Adding the validating the budget, numbers.
+- Current: Adding the validating of the budget, and numbers.
 - Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
@@ -53,7 +53,7 @@ This repository contains the source code for our Personal Budget Web Application
 ## 3/27/2024 Update
 ### Eddy
 - New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
-- Current: Adding the validating the budget, numbers.
+- Current: Adding the validating of the budget, and numbers.
 - Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
