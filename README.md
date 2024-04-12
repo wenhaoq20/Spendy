@@ -17,6 +17,7 @@ This repository contains the source code for our Personal Budget Web Application
 - Complete domain design for API and Pages
 - Completed initial frontend layout and page components.
 - Log-in, Log-out page
+- Main draft of code implemented
 ### Pending
 - Expense management functionality (create, edit, delete expenses).
 - Expense categorization and filtering.
@@ -57,8 +58,8 @@ This repository contains the source code for our Personal Budget Web Application
 - Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
-- New completions: Set up the basic server and API endpoints.
-- Next Steps: Will focus on integrating financial calculations and budget tracking functionalities.
+- New completions: Set up the basic server and API endpoints, Main draft of code implemented
+- Next Steps: Implementing connections of code to appropriate pages
 
 ### Sean
 - Current: Outlined the ERD and planned the database schema.
