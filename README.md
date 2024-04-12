@@ -16,6 +16,7 @@ This repository contains the source code for our Personal Budget Web Application
 - Basic ERD (Entity-Relationship Diagram) and domain route planning.
 - Complete domain design for API and Pages
 - Completed initial frontend layout and page components.
+- Implemented frontend functionality.
 - Log-in, Log-out page
 - Main draft of code implemented
 ### Pending
