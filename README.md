@@ -7,6 +7,10 @@ This repository contains the source code for our Personal Budget Web Application
 
 ## [Link to the online repository](https://github.com/wenhaoq20/Spendy/)
 
+## [Link to the application wiki and documentation](https://github.com/wenhaoq20/Spendy/wiki)
+
+## [Link to the final release](https://github.com/wenhaoq20/Spendy/releases/tag/alpha)
+
 <br>
 
 ## Completion Status
@@ -33,7 +37,7 @@ This repository contains the source code for our Personal Budget Web Application
 
 ## Team Members' Progress
 
-## 4/10/2024 Update
+## Final Update
 ### Eddy
 - New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
 - Current: Adding the validating of the budget, and numbers.
@@ -92,7 +96,7 @@ This repository contains the source code for our Personal Budget Web Application
 <br>
 
 ## How to Run This Project
-Please refer to our wiki for user guide to run the application
+Please refer to our [wiki](https://github.com/wenhaoq20/Spendy/wiki/User-Guide) for user guide to run and install the application
 
 ## How to Contribute
 Please refer to our wiki for guidelines on how to contribute to this project. Make sure to pull the latest changes from the main branch before starting your work and push your branches with meaningful commit messages.
