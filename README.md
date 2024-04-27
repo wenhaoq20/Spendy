@@ -92,18 +92,7 @@ This repository contains the source code for our Personal Budget Web Application
 <br>
 
 ## How to Run This Project
-1. Clone this repository from [https://github.com/wenhaoq20/Spendy/](https://github.com/wenhaoq20/Spendy/)
-2. cd to the Spendy/ directory folder
-3. Run npm install in the folder using the terminal
-4. Run npm run dev to start the application
-5. Visit the local link provided in the terminal to confirm that the website is running
-
-</br>
+Please refer to our wiki for user guide to run the application
 
 ## How to Contribute
-Please refer to our CONTRIBUTING.md for guidelines on how to contribute to this project. Make sure to pull the latest changes from the main branch before starting your work and push your branches with meaningful commit messages.
-
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-*List of team members specifying under each team member's name: what they worked on in the project so far, and what they will be handling next.
+Please refer to our wiki for guidelines on how to contribute to this project. Make sure to pull the latest changes from the main branch before starting your work and push your branches with meaningful commit messages.
