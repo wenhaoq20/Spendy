@@ -39,9 +39,8 @@ This repository contains the source code for our Personal Budget Web Application
 
 ## Final Update
 ### Eddy
-- New completions: Static Analysis with EsLint, Fuzz Testing with attempting hack of the website.
+- New completions: Finished writing Final Security Review Grade
 - Current: Adding the validating of the budget, and numbers.
-- Next Steps: Will focus on developing the user account management backend.
 
 ### Johanan
 - New completions: Set up the basic server and API endpoints.
